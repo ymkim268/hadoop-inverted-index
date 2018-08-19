@@ -10,6 +10,9 @@
 * code ref2: https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
 * need to convert job java file as jar (see below)
 
+### sample.txt
+* inverted index result for sample text "The American by Henry James" (6818880)
+
 ### Useful Commands for GCP hadoop
 ```
 Create home directory on HDFS
